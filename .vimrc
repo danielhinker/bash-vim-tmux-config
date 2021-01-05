@@ -24,5 +24,4 @@ colorscheme codedark
 set clipboard=unnamedplus
 set clipboard+=unnamed
 let g:user_emmet_leader_key=','
-execute pathogen#infect()
 map <C-n> :NERDTreeToggle<CR>
